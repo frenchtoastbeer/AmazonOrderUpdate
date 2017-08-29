@@ -1,0 +1,8 @@
+C:\Users\Me\source\repos\AmazonOrderUpdate\AmazonOrderUpdate\bin\Debug\netstandard1.4\AmazonOrderUpdate.deps.json
+C:\Users\Me\source\repos\AmazonOrderUpdate\AmazonOrderUpdate\bin\Debug\netstandard1.4\AmazonOrderUpdate.dll
+C:\Users\Me\source\repos\AmazonOrderUpdate\AmazonOrderUpdate\bin\Debug\netstandard1.4\AmazonOrderUpdate.pdb
+C:\Users\Me\source\repos\AmazonOrderUpdate\AmazonOrderUpdate\obj\Debug\netstandard1.4\AmazonOrderUpdate.vbprojResolveAssemblyReference.cache
+C:\Users\Me\source\repos\AmazonOrderUpdate\AmazonOrderUpdate\obj\Debug\netstandard1.4\AmazonOrderUpdate.vbproj.CoreCompileInputs.cache
+C:\Users\Me\source\repos\AmazonOrderUpdate\AmazonOrderUpdate\obj\Debug\netstandard1.4\AmazonOrderUpdate.AssemblyInfo.vb
+C:\Users\Me\source\repos\AmazonOrderUpdate\AmazonOrderUpdate\obj\Debug\netstandard1.4\AmazonOrderUpdate.dll
+C:\Users\Me\source\repos\AmazonOrderUpdate\AmazonOrderUpdate\obj\Debug\netstandard1.4\AmazonOrderUpdate.pdb
