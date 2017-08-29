@@ -8,7 +8,7 @@ Namespace UtilityLibraries
                 Return False
             End If
 
-            Dim ch As Char = str(0)
+            Dim ch As Char = str(1)
             Return Char.IsUpper(ch)
         End Function
     End Module
